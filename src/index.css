@@ -33,7 +33,7 @@
   }
 
   .padding-y {
-    @apply sm:py-24 py-12;
+    @apply sm:py-24 py-0;
   }
 
   .padding-l {
